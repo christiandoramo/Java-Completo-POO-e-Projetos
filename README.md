@@ -1,2 +1,2 @@
-# Java-Completo-POO-e-Projetos
-Java COMPLETO Programação Orientada a Objetos +Projetos | prof - Nélio Alves
+# Java COMPLETO Programação Orientada a Objetos +Projetos
+Andamento do curso na Udemy | prof - Nélio Alves
